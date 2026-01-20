@@ -19,7 +19,7 @@ npm install
 2. Create a `.env.local` file in the root directory:
 
 ```bash
-NEXT_PUBLIC_FRED_API_KEY=your_actual_fred_api_key_here
+NEXT_PUBLIC_FRED_API_KEY=233d8ab2d8d2dd9e106fa949b7e3dc71
 ```
 
    > Get your free FRED API key at [fred.stlouisfed.org/docs/api/api_key.html](https://fred.stlouisfed.org/docs/api/api_key.html)
